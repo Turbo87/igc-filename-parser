@@ -1,0 +1,38 @@
+{
+  "name": "igc-filename-parser",
+  "version": "0.0.0",
+  "description": "IGC flight log filename parser",
+  "keywords": [
+    "fai",
+    "flight",
+    "flying",
+    "gliding",
+    "igc",
+    "recorder"
+  ],
+  "homepage": "https://github.com/Turbo87/igc-filename-parser#readme",
+  "bugs": {
+    "url": "https://github.com/Turbo87/igc-filename-parser/issues"
+  },
+  "license": "MIT",
+  "author": "Tobias Bieniek <tobias.bieniek@gmail.com>",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turbo87/igc-filename-parser.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "flight-recorder-manufacturers": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
