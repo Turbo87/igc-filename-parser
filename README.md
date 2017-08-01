@@ -6,6 +6,20 @@ igc-filename-parser
 IGC flight log filename parser
 
 
+Install
+------------------------------------------------------------------------------
+
+```bash
+npm install --save igc-filename-parser
+```
+
+or using [`yarn`](https://yarnpkg.com/):
+
+```bash
+yarn add igc-filename-parser
+```
+
+
 Usage
 ------------------------------------------------------------------------------
 
