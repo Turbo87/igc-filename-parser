@@ -1,8 +1,6 @@
 igc-filename-parser
 ==============================================================================
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Turbo87/igc-filename-parser.svg)](https://greenkeeper.io/)
-
 [![Build Status](https://travis-ci.org/Turbo87/igc-filename-parser.svg?branch=master)](https://travis-ci.org/Turbo87/igc-filename-parser)
 
 IGC flight log filename parser
