@@ -39,6 +39,8 @@ let result = parse('78_65dv1qz1.igc');
 }
 ```
 
+For more examples have a look at our [test suite](test.js).
+
 License
 ------------------------------------------------------------------------------
 
