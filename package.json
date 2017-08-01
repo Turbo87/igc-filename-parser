@@ -1,6 +1,6 @@
 {
   "name": "igc-filename-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "IGC flight log filename parser",
   "keywords": [
     "fai",
