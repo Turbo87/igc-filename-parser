@@ -58,7 +58,7 @@ function parseShort(filename, maxYear) {
 
   let callsign = null;
   let date = charsToDate(match[1], match[2], match[3], maxYear);
-  let manufacturer = lookupManufacturer(match[4], true);
+  let manufacturer = lookupManufacturer(match[4]);
 
   let loggerId = match[5].toUpperCase();
   let numFlight = charToNumber(match[6]);
