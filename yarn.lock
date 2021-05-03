@@ -1025,9 +1025,9 @@ find-up@^3.0.0:
   dependencies:
     locate-path "^3.0.0"
 
-flight-recorder-manufacturers@^1.0.1:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/flight-recorder-manufacturers/-/flight-recorder-manufacturers-1.1.0.tgz#66639d5d3f33cdac147e3fe35a7011a899b505f9"
+flight-recorder-manufacturers@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/flight-recorder-manufacturers/-/flight-recorder-manufacturers-2.0.0.tgz#b396a40ffcf3323572cae2289cce9793c999cc5d"
 
 for-in@^1.0.2:
   version "1.0.2"
