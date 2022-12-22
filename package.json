@@ -30,7 +30,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "flight-recorder-manufacturers": "^1.0.1"
+    "flight-recorder-manufacturers": "^2.0.0"
   },
   "devDependencies": {
     "jest": "^24.9.0"
