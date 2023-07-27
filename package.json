@@ -33,6 +33,6 @@
     "flight-recorder-manufacturers": "^2.0.0"
   },
   "devDependencies": {
-    "jest": "29.6.1"
+    "jest": "29.6.2"
   }
 }
